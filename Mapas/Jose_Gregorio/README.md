@@ -1,0 +1,2 @@
+Um aluno que me diverti bastante, fez um mapa de sobrevivência no estilo de RUST (o jogo da Valve), porém perdeu o backup desse projeto atualmente, talvez eu encontre os arquivos pra meios de eternizar e enriquecer o repositório, mas no final ele fez um mapa muito dificil de terror psicológico com backrooms (uma tendência da internet, no meio de histórias de terror).
+O final do relatório será criado após a apresentação dos mapas, no dia 29/11/2025.
